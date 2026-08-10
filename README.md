@@ -1,8 +1,6 @@
 # Priyadharshini C — Portfolio
 
-Aspiring Software Developer | B.E. Computer Science and Engineering, V.S.B. Engineering College, Karur
 
-🔗 **Live Site:** [https://your-vercel-url.vercel.app]# Priyadharshini C — Portfolio
 
 Aspiring Software Developer | B.E. Computer Science and Engineering, V.S.B. Engineering College, Karur
 

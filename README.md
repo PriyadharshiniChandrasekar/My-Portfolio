@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Priyadharshini C
+#  💻 Priyadharshini C
 
 ### Aspiring Software Developer
 

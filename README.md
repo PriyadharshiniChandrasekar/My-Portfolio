@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👩‍💻 Priyadharshini C
+# 👩🏿‍💻 Priyadharshini C
 
 ### Aspiring Software Developer
 
 B.E. Computer Science and Engineering · V.S.B. Engineering College, Karur
 
-[![Live Site](https://img.shields.io/badge/🔗_Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-nine-chi-71.vercel.app/)
+🔗 **Live Site:** [https://my-portfolio-nine-chi-71.vercel.app/](https://my-portfolio-nine-chi-71.vercel.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyadharshiniChandrasekar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadharshini-chandrasekar-898102402/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Priyadharshini_CSE/)
@@ -40,4 +41,3 @@ A single-page portfolio showcasing my academic projects, technical skills, inter
 <div align="center">
   <sub>Built with ❤️ by Priyadharshini C</sub>
 </div>
-

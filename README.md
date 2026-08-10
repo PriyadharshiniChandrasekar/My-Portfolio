@@ -10,7 +10,7 @@ Aspiring Software Developer | B.E. Computer Science and Engineering, V.S.B. Engi
 A single-page portfolio showcasing my academic projects, technical skills, internships and certifications.
 
 ## Tech Stack
-- HTML, CSS, JavaScript (single-file site)
+- HTML, CSS, JavaScript 
 
 ## Sections
 - About

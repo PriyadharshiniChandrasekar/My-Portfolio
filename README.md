@@ -18,7 +18,7 @@ B.E. Computer Science and Engineering · V.S.B. Engineering College, Karur
 
 ## 📌 About
 
-A single-page portfolio showcasing my academic projects, technical skills, internships and certifications.
+A  portfolio page showcasing my academic projects, technical skills, internships and certifications.
 
 ## 🛠️ Tech Stack
 

@@ -39,5 +39,5 @@ A  portfolio page showcasing my academic projects, technical skills, internships
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Priyadharshini C</sub>
+  <sub>Thanks for visiting — feel free to connect!</sub>
 </div>
